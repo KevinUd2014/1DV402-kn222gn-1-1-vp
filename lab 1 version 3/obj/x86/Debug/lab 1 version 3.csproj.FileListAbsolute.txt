@@ -1,0 +1,5 @@
+P:\lab 1 version 3\lab 1 version 3\bin\Debug\lab 1 version 3.exe
+P:\lab 1 version 3\lab 1 version 3\bin\Debug\lab 1 version 3.pdb
+P:\lab 1 version 3\lab 1 version 3\obj\x86\Debug\lab 1 version 3.exe
+P:\lab 1 version 3\lab 1 version 3\obj\x86\Debug\lab 1 version 3.pdb
+P:\lab 1 version 3\lab 1 version 3\obj\x86\Debug\lab 1 version 3.csprojResolveAssemblyReference.cache
